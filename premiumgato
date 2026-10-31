@@ -1109,6 +1109,103 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png", Paramount Network
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9Cv2yA.jpeg" group-title="Peliculas;RD" , Camu Tv
+https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IluVrb0.jpeg" group-title="Peliculas;RD" , A7 Tv
+https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CdZcDYE.png" group-title="Peliculas;RD" , Antena 21
+https://hls.tvabierta.net/hls/021.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6VP50M.png" group-title="Peliculas;RD" , Axion Tv
+https://edge.essastream.com/aiontelevision/playlist.m3u8
+#EXTINF:-1 group-title="peliculas;RD" tvg-id="" tvg-name="Antena 7" tvg-logo="https://i.imgur.com/E70Znlw.png", Antena 7
+https://hls.tvabierta.net/hls/007.m3u8
+#EXTINF:-1 group-title="Peliculas;RD" tvg-id="" tvg-name="Boreal" tvg-logo="https://i.imgur.com/QeHRrJS.png", Boreal
+https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Catorce" tvg-logo="https://i.imgur.com/VcuxJcS.png" group-title="Peliculas;RD", Canal Catorce
+https://stream.haislin.com/14tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Del Sol" tvg-logo="https://i.imgur.com/FvobM3M.png" group-title="Peliculas;RD", Canal Del Sol
+https://stream.canaldelsol.com/sol26/live_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multivision" tvg-logo="https://i.imgur.com/Mf7pdKK.jpeg" group-title="Peliculas;RD", Multivision
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PknW23a.jpeg" group-title="Peliculas;RD" , Cenovision Tv
+https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cue4P5l.jpeg" group-title="Peliculas;RD" , Citrico
+https://edge.essastream.com/citricotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ll88XCY.jpeg" group-title="Peliculas;RD" ,Cnt Mas Tv
+https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkDOkXI.png" group-title="Peliculas;RD" , Constanza Tv
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas;RD" tvg-id="" tvg-name="Cotubanama" tvg-logo="https://i.imgur.com/f1mPukQ.png", Cotubanama
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+#EXTINF:-1 group-title="Peliculas;RD" tvg-id="" tvg-name="El seis 6" tvg-logo="https://i.imgur.com/6YUfB9U.png", El Seis 6
+https://stream.elseis.do/canal6/live_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Entelevision" tvg-logo="https://i.imgur.com/vLuw2yX.png" group-title="General;RD", Entelevision
+https://stream.haislin.com/entelevision/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gi Television" tvg-logo="https://i.imgur.com/ejbx8cQ.png" group-title="Peliculas;RD", Gi Television
+https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Voz De Jesus Hd" tvg-logo="https://i.imgur.com/NBz7hEq.png" group-title="Peliculas;RD", La Voz De Jesus Hd
+https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fbkI9BB.jpeg" group-title="Peliculas;RD" , Laguna Tv
+https://cnn.hostlagarto.com/lagutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Mm06wa.png" group-title="Peliculas;RD" , Guaymate
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfxsMCW.png" group-title="Peliculas;RD" , Latina Tv Internacional
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHIzU8l.png" group-title="Peliculas;RD" , Manaclar
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
+#EXTINF:-1 group-title="General;RD" tvg-id="" tvg-name="Miavision" tvg-logo="https://i.imgur.com/9SxVr17.png", Miavision
+https://edge.essastream.com/miavisiontv/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas;RD" tvg-id="" tvg-name="Microvision 10" tvg-logo="https://i.imgur.com/4cElnBR.png", Microvision 10
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Montones Tv" tvg-logo="https://i.imgur.com/KswQueM.png" group-title="Peliculas;RD", Montones Tv
+https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mudavision" tvg-logo="https://i.imgur.com/yFrWZVX.png" group-title="Peliculas;RD", Musavision
+https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Navarrete Television" tvg-logo="https://i.imgur.com/7SPnTMx.png" group-title="Peliculas;RD", Navarrete Television
+https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjPn0sh.png" group-title="Peliculas;RD" , Nitida Tv
+https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/184v3LF.png" group-title="Peliculas;RD" , Orbit Tv
+https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xLaUitP.png" group-title="Peliculas;RD" , Ready Tv
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qeA0Bgi.png" group-title="Peliculas;RD" , Onda Tv
+https://cnn.hostlagarto.com/ondatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4YKIquE.png" group-title="General;RD" , Romana Tv
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqeoehR.png" group-title="General;RD" , Santiago Tv
+https://edge.essastream.com/telemilenio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/885yXU3.png" group-title="Peliculas;RD" , Tele Dajabon
+https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F9g2utR.png" group-title="Peliculas;RD" , Tele Proyecto
+https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f0v77iy.png" group-title="Peliculas;RD" , Tele Canal 12
+https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SXzrqPA.png" group-title="Peliculas;RD" , Tele Canal 28
+https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AidbZzD.png" group-title="Peliculas;RD" , Telecibao Hd
+https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8n6wATv.png" group-title="Peliculas;RD" , Telesistema 11
+https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JzrUrYN.png" group-title="Peliculas;RD" , Tenarenses Tv
+https://edge.essastream.com/tenarensestvrd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pza295F.jpeg" group-title="Niños;RD;24/7" , Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEATCyK.png" group-title="General;RD" , Tv 10 Sqn Juan
+https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EXtLzJu.png" group-title="General ;RD" , Tv Cotii Canal 31
+https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bq9xF2.png" group-title="Peliculas;RD" , Tvn
+https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tcJAdkv.png" group-title="Musica;General;RD" , Valle Nuevo Tv
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0JWT1It.png" group-title="General;RD" , Vallevision
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7SNT37.jpeg" group-title="General;RD" , Extra Tv
+https://edge.essastream.com/xtratv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBxQMHS.png" group-title="General;RD" , Zonavision Tv
+https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
+
 
 
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Premium;Movies",HBO Family Latin America (1080p)

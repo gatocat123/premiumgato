@@ -160,7 +160,7 @@ https://live.streamhch.com/live/streams/hch1.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8?did=r1us1435169809d133d5ffdcc30cd169887efe992d0348&ndvc=0
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/aotV8QE.png", Telepais
 https://tv.webmedialive.com/teleprogreso/live/chunks.m3u8
-#EXTINF:-1 " tvg-logo="https://i.imgur.com/NVZRbVa.png", Retroplus
+#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/NVZRbVa.png", Retroplus
 https://video06.logicahost.com.br/cableoperadorcolombia01/cableoperadorcolombia01/playlist.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/nVikurH.jpeg", Retromusic Tv
 https://stream.enlineatv.net/hls/retromusic/1_2/index.m3u8?tkn=427918311

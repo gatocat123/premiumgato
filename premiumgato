@@ -255,6 +255,7 @@ https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/dAidZd3.png", Central Tv
 https://freya.mivideo.pro/centraltv/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/E943Nms.png",Fortaleza Tv
+https://multimedia.fortalezatv.cl/video/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile;Niños" tvg-logo="https://i.imgur.com/QytANnZ.jpeg", Peliskids
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 #EXTINF:-1 group-title="Chile;Niños;24/7" tvg-logo="https://i.imgur.com/RYXdzzR.jpeg", Tom Y Jerry
@@ -289,7 +290,6 @@ https://srt01.logicahost.com.br/senal2/index.m3u8?ChileTv
 https://stmv5.voxtvhd.com.br/radiomagicatv2/radiomagicatv2/playlist.m3u8
 #EXTINF:-1 group-title="Chile;Niños" tvg-logo="https://i.imgur.com/ov7gaIG.png", Zkids
 http://proxycl.chiletvapp.com:8000/play/a003/index.m3u8
-https://multimedia.fortalezatv.cl/video/video.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-country="Gt" tvg-logo="https://i.imgur.com/j7f0lgE.png" group-title="Peliculas",Vision Tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="Totovision.Gt" tvg-logo="https://i.imgur.com/iu8kPYx.png" group-title="Peliculas",Toto Vision

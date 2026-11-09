@@ -160,7 +160,7 @@ https://live.streamhch.com/live/streams/hch1.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8?did=r1us1435169809d133d5ffdcc30cd169887efe992d0348&ndvc=0
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/aotV8QE.png", Telepais
 https://tv.webmedialive.com/teleprogreso/live/chunks.m3u8
-#EXTINF:-1 " tvg-logo="https://i.imgur.com/3PMRO33.png", Retroplus
+#EXTINF:-1 " tvg-logo="https://i.imgur.com/NVZRbVa.png", Retroplus
 https://video06.logicahost.com.br/cableoperadorcolombia01/cableoperadorcolombia01/playlist.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/nVikurH.jpeg", Retromusic Tv
 https://stream.enlineatv.net/hls/retromusic/1_2/index.m3u8?tkn=427918311
@@ -255,6 +255,40 @@ https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/dAidZd3.png", Central Tv
 https://freya.mivideo.pro/centraltv/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/E943Nms.png",Fortaleza Tv
+#EXTINF:-1 group-title="Chile;Niños" tvg-logo="https://i.imgur.com/QytANnZ.jpeg", Peliskids
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+#EXTINF:-1 group-title="Chile;Niños;24/7" tvg-logo="https://i.imgur.com/RYXdzzR.jpeg", Tom Y Jerry
+https://hls.chiletvapp.com/tomyjerry/stream.m3u8
+#EXTINF:-1 group-title="Chile;Niños;24/7" tvg-logo="https://i.imgur.com/R7JCNQS.jpeg", Pitufo Tv
+http://proxycl.chiletvapp.com:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Chile;Niños;24/7" tvg-logo="https://i.imgur.com/i4g7TgR.jpeg",Los Simpson
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
+#EXTINF:-1 group-title="Chile;Niños" tvg-logo="https://i.imgur.com/RAO0fQb.jpeg", Locomotion Tv
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Peliculas;24/7" tvg-logo="https://i.imgur.com/J9iW8ow.jpeg", Peliculas Mcu
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 group-title="Chile;Niños;24/7" tvg-logo="https://i.imgur.com/bPCxPyh.jpeg", Dragon Ball
+https://lbgo.bozztv.com/ssh101/ssh101/dbslat/playlist.m3u8
+#EXTINF:-1 group-title="Chile;24/7" tvg-logo="https://i.imgur.com/XvIDOA1.jpeg", El Chavo Del 8
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+#EXTINF:-1 group-title="Chile;Niños;24/7" tvg-logo="https://i.imgur.com/iUznm4Z.jpeg", El Chavo Animado
+https://hls.chiletvapp.com/elchavo/stream.m3u8
+#EXTINF:-1 group-title="Chile;Niños;24/7" tvg-logo="https://i.imgur.com/gll91HN.jpeg", El Gallo Claudio
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/347.m3u8
+#EXTINF:-1 group-title="Chile;General" tvg-logo="https://i.imgur.com/bpTy1nj.jpeg", Canal 2 Quellon
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1 group-title="Chile;General" tvg-logo="https://i.imgur.com/YaPzw22.png", Vtv
+https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Chile;Musica" tvg-logo="https://i.imgur.com/4OiFkE6.png", 13 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 group-title="Chile;Musica" tvg-logo="https://i.imgur.com/C9wHZ7x.jpeg", Portalfolmix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 group-title="Chile;Musica" tvg-logo="https://i.imgur.com/84MObsH.jpeg", Retroplus 2
+https://srt01.logicahost.com.br/senal2/index.m3u8?ChileTv
+#EXTINF:-1 group-title="Chile;General" tvg-logo="https://i.imgur.com/uQreq9n.jpeg", Radio Magica
+https://stmv5.voxtvhd.com.br/radiomagicatv2/radiomagicatv2/playlist.m3u8
+#EXTINF:-1 group-title="Chile;Niños" tvg-logo="https://i.imgur.com/ov7gaIG.png", Zkids
+http://proxycl.chiletvapp.com:8000/play/a003/index.m3u8
 https://multimedia.fortalezatv.cl/video/video.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-country="Gt" tvg-logo="https://i.imgur.com/j7f0lgE.png" group-title="Peliculas",Vision Tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8

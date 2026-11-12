@@ -409,8 +409,7 @@ https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/5ao0GMS.png", Clic
 https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 group-title="Pelis" tvg-logo="https://i.imgur.com/BAnBLjb.jpeg", Godzila Vs Kong 2021
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmay24%2FVer%20Godzilla%20y%20Kong-%20El%20nuevo%20imperio%20online%20HD%20-%20Cuevana%202.mp4
+
 #EXTINF:0 tvg-country="Gt" tvg-logo="https://i.imgur.com/j7f0lgE.png" group-title="Peliculas",Vision Tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="Totovision.Gt" tvg-logo="https://i.imgur.com/iu8kPYx.png" group-title="Peliculas",Toto Vision
@@ -3414,3 +3413,23 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr@SD" tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="General",Zurqui TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+
+
+#EXTINF:-1 group-title="Pelis " tvg-logo="https://i.imgur.com/3OqN5jR.jpeg", La Isla Olvidada
+https://hugh.cdn.rumble.cloud/video/fwe2/8b/s8/2/6/K/e/3/6Ke3A.aaa.mp4
+#EXTINF:-1 group-title="Pelis" tvg-logo="https://i.imgur.com/PicNL7I.jpeg", Coyote Vs Acme
+https://hugh.cdn.rumble.cloud/video/fww1/d8/s8/2/k/S/C/2/kSC2A.aaa.mp4
+#EXTINF:-1 group-title="Pelis" tvg-logo="https://i.imgur.com/xMG8ZLB.jpeg", Resident Evil: Noche Cero
+https://stream.adysweb.com/stream?v=dMQ8JLjqetyo&expires=1794468156&token=2dcf9205b92b8146cd98b63811c4f0b99cfa4c292c012c1ed8db652cc8683930
+#EXTINF:-1 group-title="Pelis" tvg-logo="https://i.imgur.com/aEFAqma.jpeg",Hopprrs Operacion Castor
+https://1a-1791.com/video/fww1/d7/s8/2/U/-/z/j/U-zjA.aaa.mp4
+#EXTINF:-1 group-title="Pelis" tvg-logo="https://i.imgur.com/RDWiQW3.jpeg",Minions &amp; Monstruos
+https://hugh.cdn.rumble.cloud/video/fww1/66/s8/2/e/y/1/O/ey1OA.aaa.mp4
+#EXTINF:-1 group-title="Pelis" tvg-logo="https://i.imgur.com/WGjTeGq.jpeg", Toy story 5
+https://1a-1791.com/video/fwe2/39/s8/2/O/a/P/C/OaPCA.aaa.mp4
+#EXTINF:-1 group-title="Pelis" tvg-logo="https://i.imgur.com/aZQx4me.jpeg", Super Mario Galaxy: La Pelicula
+https://1a-1791.com/video/fww1/2c/s8/2/8/J/Z/e/8JZeA.aaa.mp4
+#EXTINF:-1 group-title="Pelis" tvg-logo="https://i.imgur.com/ZkmhKL5.jpeg", Moana
+https://apiprorescue.testaacc.workers.dev/proxyvideo?url=https://hugh.cdn.rumble.cloud/video/fwe2/7b/s8/2/W/K/a/F/WKaFA.aaa.mp4&referer=https://zonaaps.com/
+#EXTINF:-1 group-title="Pelis" tvg-logo="https://i.imgur.com/BAnBLjb.jpeg", Godzila Vs Kong 2021
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmay24%2FVer%20Godzilla%20y%20Kong-%20El%20nuevo%20imperio%20online%20HD%20-%20Cuevana%202.mp4

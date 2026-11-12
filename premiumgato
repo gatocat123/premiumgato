@@ -368,6 +368,46 @@ https://stream-retroxtv.site/w/DQgd7F88Na3BT9zkFm7UOHbc.m3u8
 https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 group-title="Niños" tvg-logo="https://i.imgur.com/iGJHu5f.jpeg", Nick Junior
 https://streaming.onnethn.com/NICK_JR/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Peliculas " tvg-logo="https://i.imgur.com/oWDyujZ.jpeg", Cana Tv
+https://cdnfox.hostlagarto.com/canatvdigital/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/wlxJHcG.png", Delta Tv
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/Bqxni6Y.png", Miel Tv
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/jZEahm0.jpeg",Delta Tv
+https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/ddKla3T.png",Super Canal
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/oCDGCxI.jpeg", Via Altomayo
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/jt1NsrB.png", Telesur
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/yzDiG15.jpeg", Del Rey Tv
+https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/sJsP0qt.jpeg", Invasiva Tv
+https://tv-omega-nine.vercel.app/hls/live.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/akqnvBj.jpeg", Canal 30 Loncomilla
+https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/mk4G2Ox.png", Central Tv
+https://freya.mivideo.pro/centraltv/video.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/X0HrnMU.png", Limache Tv
+https://v4.tustreaming.cl/limachemovil/index.m3u8
+#EXTINF:-1 group-title="Niños" tvg-logo="https://i.imgur.com/DzB5ajq.jpeg", Toon Goggles En Español
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=514&coppa=1&is_lat=1&dnt=1&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=toongoggles.com&app_name=Toon%20Goggles&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=ToonGoggles&content_network=ToonGoggles&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=toongoggles.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=en&preferred_language=EN&gdpr=0&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=mx&country_region=yucat%25c3%25a1n&postal_code=97646&site_page=https%253A%252F%252Fwww.toongoggles.com%252Flinear%252Ftoon-goggles-en-espanol&sdid=d435fa6d-6a56-f5b7-ad2f-d70ca8bbe327&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
+#EXTINF:-1 group-title="Niños" tvg-logo="https://i.imgur.com/wwbPqVa.png", Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/EYQsub8.jpeg",Humbor Tv
+https://alanza.iptv2022.com/HUMBOR_TV/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/uzQcZdX.jpeg", Amitel Tv
+https://stv2.boliviaplay.com.bo/hls/stream.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/5SfDvXL.png", Telecinco Trelew
+https://stmvideo1.livecastv.com/tele5trelew/tele5trelew/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/obigNhR.png",Kairos Tv
+https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/jUINF20.png", Bendicion Channel
+https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/5ao0GMS.png", Clic
+https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="Pelis" tvg-logo="https://i.imgur.com/BAnBLjb.jpeg", Godzila Vs Kong 2021
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmay24%2FVer%20Godzilla%20y%20Kong-%20El%20nuevo%20imperio%20online%20HD%20-%20Cuevana%202.mp4
